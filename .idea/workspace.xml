@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97784af7-1645-4a58-8425-4a98f3e15fa0" name="Changes" comment="added some new features">
-      <change afterPath="$PROJECT_DIR$/src/components/people-page/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/people-page/people-page.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/people-page/people-page.js" afterDir="false" />
+    <list default="true" id="97784af7-1645-4a58-8425-4a98f3e15fa0" name="Changes" comment="added error catching in components">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/item-list /item-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-list /item-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/people-page/people-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/people-page/people-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services /swapi-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services /swapi-service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +110,7 @@
       <updated>1740547315668</updated>
       <workItem from="1740547316669" duration="11028000" />
       <workItem from="1740563426031" duration="1525000" />
-      <workItem from="1741099751767" duration="10760000" />
+      <workItem from="1741099751767" duration="11989000" />
     </task>
     <task id="LOCAL-00001" summary="testcommit">
       <option name="closed" value="true" />
@@ -161,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741151292918</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added error catching in components">
+      <option name="closed" value="true" />
+      <created>1741151921646</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741151921646</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +181,7 @@
     <MESSAGE value="added errors catcher" />
     <MESSAGE value="added person details" />
     <MESSAGE value="added some new features" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some new features" />
+    <MESSAGE value="added error catching in components" />
+    <option name="LAST_COMMIT_MESSAGE" value="added error catching in components" />
   </component>
 </project>
