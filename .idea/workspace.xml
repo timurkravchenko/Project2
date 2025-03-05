@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97784af7-1645-4a58-8425-4a98f3e15fa0" name="Changes" comment="added errors catcher">
+    <list default="true" id="97784af7-1645-4a58-8425-4a98f3e15fa0" name="Changes" comment="added some new features">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/item-list /item-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-list /item-list.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/person-details /person-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/person-details /person-details.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/random-planet /random-planet.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/random-planet /random-planet.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/services /swapi-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services /swapi-service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +107,7 @@
       <updated>1740547315668</updated>
       <workItem from="1740547316669" duration="11028000" />
       <workItem from="1740563426031" duration="1525000" />
-      <workItem from="1741099751767" duration="5877000" />
+      <workItem from="1741099751767" duration="10153000" />
     </task>
     <task id="LOCAL-00001" summary="testcommit">
       <option name="closed" value="true" />
@@ -144,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741104171802</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added person details">
+      <option name="closed" value="true" />
+      <created>1741106591638</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741106591638</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +160,8 @@
     <MESSAGE value="added file struct and api worker" />
     <MESSAGE value="random planet" />
     <MESSAGE value="added errors catcher" />
-    <option name="LAST_COMMIT_MESSAGE" value="added errors catcher" />
+    <MESSAGE value="added person details" />
+    <MESSAGE value="added some new features" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some new features" />
   </component>
 </project>
