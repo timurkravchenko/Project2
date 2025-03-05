@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97784af7-1645-4a58-8425-4a98f3e15fa0" name="Changes" comment="small changes">
-      <change afterPath="$PROJECT_DIR$/src/components/Row/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Row/row.js" afterDir="false" />
+    <list default="true" id="97784af7-1645-4a58-8425-4a98f3e15fa0" name="Changes" comment="added render functions">
+      <change afterPath="$PROJECT_DIR$/src/components/error-boundary /error-boundary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/error-boundary /index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/item-list /item-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-list /item-list.js" afterDir="false" />
@@ -111,7 +111,7 @@
       <updated>1740547315668</updated>
       <workItem from="1740547316669" duration="11028000" />
       <workItem from="1740563426031" duration="1525000" />
-      <workItem from="1741099751767" duration="13376000" />
+      <workItem from="1741099751767" duration="14359000" />
     </task>
     <task id="LOCAL-00001" summary="testcommit">
       <option name="closed" value="true" />
@@ -177,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741153167049</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added render functions">
+      <option name="closed" value="true" />
+      <created>1741155740768</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741155740768</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +200,7 @@
     <MESSAGE value="added some new features" />
     <MESSAGE value="added error catching in components" />
     <MESSAGE value="small changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="small changes" />
+    <MESSAGE value="added render functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added render functions" />
   </component>
 </project>
