@@ -2,9 +2,8 @@ import React,{Component} from 'react';
 
 import Header from '../header'
 import RandomPlanet from '../random-planet'
-import ItemList from '../item-list'
-import PersonDetails from '../person-details'
-import SwapiService from "../../services/swapi-service";
+
+import SwapiService from '../../services/swapi-service';
 import './app.css';
 import ErrorIndicator from "../error-indicator";
 import PeoplePage from "../people-page";
@@ -13,10 +12,10 @@ export default class App extends Component {
 
     swapiService = new SwapiService()
 
-            state = {
+    state = {
                 selectedPerson: null,
                 hasError: false
-};
+    };
 
     componentDidCatch(error, errorInfo) {
         this.setState({ hasError: true })
@@ -30,9 +29,7 @@ export default class App extends Component {
         <div>
             <Header/>
             <RandomPlanet/>
-
             <PeoplePage />
-
         </div>
     )
     }
