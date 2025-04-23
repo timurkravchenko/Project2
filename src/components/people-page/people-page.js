@@ -4,7 +4,7 @@ import ItemList from '../item-list/item-list'
 import ItemDetails, { Record } from '../item-details/item-details'
 import ErrorIndicator from '../error-indicator/error-indicator';
 import SwapiService from "../../services/swapi-service"
-import Row from '../Row'
+import Row from '../row'
 import './people-page.css'
 import ErrorBoundary from '../error-boundary'
 export default class PeoplePage extends Component {
