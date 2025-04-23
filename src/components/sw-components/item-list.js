@@ -44,7 +44,8 @@ const StarshipList = compose(
     withSwapiService(mapStarshipMethodsToProps),
     withData,
     withChildFunction(renderNameAndModel)
-(ItemList)
+)(ItemList)
+
 
 
 export {
