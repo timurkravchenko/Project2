@@ -11,14 +11,15 @@ const PersonDetails = (props) => {
             <Record field="eyeColor" label="Eye Color" />
             <Record field="height" label="Height" />
             <Record field="birthYear" label="Birth Year" />
+            <Record field="homeworld" label="Homeworld" />
         </ItemDetails>
     )
 }
 
 const mapMethodsToProps = (swapiService) => {
     return {
-        getData: swapiService.getPerson,
-        getImageUrl: swapiService.getPersonImage
+        getData: swapiService.getStarship,
+        getImageUrl: swapiService.getStarshipImage
     }
 }
 
