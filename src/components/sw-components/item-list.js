@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 import { withData } from "../hoc-helpers"
 import ItemList from "../item-list"
 import withSwapiService from "../hoc-helpers/with-swapi-service"
